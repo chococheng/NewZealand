@@ -1,0 +1,11 @@
+#map{
+	
+	width: 100%;
+	height: 100%;
+}
+.brand{
+	font-size: 30px; 
+}
+#map_canvas{
+	margin-top: -30px;
+}
